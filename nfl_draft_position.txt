@@ -1,0 +1,305 @@
+,,,,,,,,,,Misc,,,,Games,,Passing,,,,,,Rushing,,,Receiving,,,,,,
+Rk,Year,Rnd,Pick,Player,Pos,DrAge,Tm,From,To,AP1,PB,St,CarAV,G,GS,QBrec,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ,
+1,2019,1,1,Kyler Murray\MurrKy00,QB,22,ARI,2019,2019,0,0,1,0,6,6,2-3-1,153,238,1664,7,4,39,238,2,,,,,,Oklahoma,College Stats
+2,2019,1,2,Nick Bosa\BosaNi00,DE,21,SFO,2019,2019,0,0,0,0,5,3,,,,,,,,,,,,,,3.0,Ohio St.,College Stats
+3,2019,1,3,Quinnen Williams\WillQu00,DT,21,NYJ,2019,2019,0,0,0,0,3,1,,,,,,,,,,,,,,,Alabama,College Stats
+4,2019,1,4,Clelin Ferrell\FerrCl00,DE,22,OAK,2019,2019,0,0,1,0,4,4,,,,,,,,,,,,,,1.0,Clemson,College Stats
+5,2019,1,5,Devin White\WhitDe02,LB,21,TAM,2019,2019,0,0,1,0,3,3,,,,,,,,,,,,,,,LSU,College Stats
+6,2019,1,6,Daniel Jones\JoneDa05,QB,22,NYG,2019,2019,0,0,1,0,5,4,2-2-0,85,140,921,5,6,15,86,2,,,,,,Duke,College Stats
+7,2019,1,7,Josh Allen\AlleJo03,LB,22,JAX,2019,2019,0,0,1,0,6,3,,,,,,,,,,,,,,4.0,Kentucky,College Stats
+8,2019,1,8,T.J. Hockenson\HockTJ00,TE,22,DET,2019,2019,0,0,1,0,5,4,,,,,,,,,,15,187,2,,,Iowa,College Stats
+9,2019,1,9,Ed Oliver\OlivEd00,DT,21,BUF,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,,,Houston,College Stats
+10,2019,1,10,Devin Bush\BushDe01,LB,21,PIT,2019,2019,0,0,1,0,6,5,,,,,,,,,,,,,2,1.0,Michigan,College Stats
+11,2019,1,11,Jonah Williams\WillJo10,G,21,CIN,,,0,0,0,,,,,,,,,,,,,,,,,,Alabama,College Stats
+12,2019,1,12,Rashan Gary\GaryRa00,LB,21,GNB,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,1.0,Michigan,College Stats
+13,2019,1,13,Christian Wilkins\WilkCh00,DT,23,MIA,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,,,Clemson,College Stats
+14,2019,1,14,Chris Lindstrom\LindCh00,G,22,ATL,2019,2019,0,0,0,0,1,1,,,,,,,,,,,,,,,Boston Col.,College Stats
+15,2019,1,15,Dwayne Haskins\HaskDw00,QB,22,WAS,2019,2019,0,0,0,0,1,0,,9,17,107,0,3,2,23,0,,,,,,Ohio St.,College Stats
+16,2019,1,16,Brian Burns\BurnBr00,DE,21,CAR,2019,2019,0,0,0,0,6,4,,,,,,,,,,,,,,4.5,Florida St.,College Stats
+17,2019,1,17,Dexter Lawrence\LawrDe03,DT,21,NYG,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,2.0,Clemson,College Stats
+18,2019,1,18,Garrett Bradbury\BradGa00,C,24,MIN,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,,North Carolina St.,College Stats
+19,2019,1,19,Jeffery Simmons\SimmJe01,DT,22,TEN,,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi St.,College Stats
+20,2019,1,20,Noah Fant\FantNo00,TE,21,DEN,2019,2019,0,0,1,0,6,4,,,,,,,1,-5,0,14,152,1,,,Iowa,College Stats
+21,2019,1,21,Darnell Savage\SavaDa00,S,22,GNB,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,1,,Maryland,College Stats
+22,2019,1,22,Andre Dillard\DillAn00,T,23,PHI,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Washington St.,College Stats
+23,2019,1,23,Tytus Howard\HowaTy00,T,23,HOU,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,,,Alabama St.,
+24,2019,1,24,Josh Jacobs\JacoJo01,RB,21,OAK,2019,2019,0,0,1,0,5,5,,,,,,,88,430,4,6,77,0,,,Alabama,College Stats
+25,2019,1,25,Marquise Brown\BrowMa04,WR,22,BAL,2019,2019,0,0,1,0,5,4,,,,,,,,,,21,326,3,,,Oklahoma,College Stats
+26,2019,1,26,Montez Sweat\SweaMo00,DE,23,WAS,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,1.0,Mississippi St.,College Stats
+27,2019,1,27,Johnathan Abram\AbraJo01,S,22,OAK,2019,2019,0,0,0,0,1,1,,,,,,,,,,,,,,,Mississippi St.,College Stats
+28,2019,1,28,Jerry Tillery\TillJe00,DT,22,LAC,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,1.5,Notre Dame,College Stats
+29,2019,1,29,L.J. Collier\CollLJ00,DE,23,SEA,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,TCU,College Stats
+30,2019,1,30,Deandre Baker\BakeDe00,CB,22,NYG,2019,2019,0,0,1,0,6,5,,,,,,,,,,,,,,,Georgia,College Stats
+31,2019,1,31,Kaleb McGary\McGaKa00,T,24,ATL,2019,2019,0,0,1,0,6,6,,,,,,,,,,1,-3,0,,,Washington,College Stats
+32,2019,1,32,N'Keal Harry\HarrNK00,WR,21,NWE,,,0,0,0,,,,,,,,,,,,,,,,,,Arizona St.,College Stats
+33,2019,2,33,Byron Murphy\MurpBy00,CB,21,ARI,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,,Washington,College Stats
+34,2019,2,34,Rock Ya-Sin\Ya-SRo00,CB,23,IND,2019,2019,0,0,1,0,5,3,,,,,,,,,,,,,,,Temple,College Stats
+35,2019,2,35,Jawaan Taylor\TaylJa02,T,21,JAX,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,,Florida,College Stats
+36,2019,2,36,Deebo Samuel\SamuDe00,WR,23,SFO,2019,2019,0,0,0,0,5,2,,,,,,,3,8,0,15,168,1,,,South Carolina,College Stats
+37,2019,2,37,Greg Little\LittGr01,T,21,CAR,2019,2019,0,0,0,0,2,1,,,,,,,,,,,,,,,Mississippi,College Stats
+38,2019,2,38,Cody Ford\FordCo00,T,22,BUF,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,,,Oklahoma,College Stats
+39,2019,2,39,Sean Murphy-Bunting\BuntSe00,CB,22,TAM,2019,2019,0,0,0,0,6,1,,,,,,,,,,,,,1,,Central Michigan,College Stats
+40,2019,2,40,Trayvon Mullen\MullTr00,CB,21,OAK,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Clemson,College Stats
+41,2019,2,41,Dalton Risner\RisnDa00,T,24,DEN,2019,2019,0,0,0,0,6,6,,,,,,,,,,,,,,,Kansas St.,College Stats
+42,2019,2,42,Drew Lock\LockDr00,QB,22,DEN,,,0,0,0,,,,,,,,,,,,,,,,,,Missouri,College Stats
+43,2019,2,43,Jahlani Tavai\TavaJa00,LB,22,DET,2019,2019,0,0,0,0,5,2,,,,,,,,,,,,,,1.0,Hawaii,College Stats
+44,2019,2,44,Elgton Jenkins\JenkEl00,C,23,GNB,2019,2019,0,0,1,0,6,4,,,,,,,,,,,,,,,Mississippi St.,College Stats
+45,2019,2,45,Joejuan Williams\WillJo13,CB,21,NWE,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Vanderbilt,College Stats
+46,2019,2,46,Greedy Williams\WillGr00,CB,21,CLE,2019,2019,0,0,0,0,2,2,,,,,,,,,,,,,,,LSU,College Stats
+47,2019,2,47,Marquise Blair\BlaiMa01,S,22,SEA,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Utah,College Stats
+48,2019,2,48,Erik McCoy\McCoEr01,C,22,NOR,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,,,Texas A&M,College Stats
+49,2019,2,49,Ben Banogu\BanoBe00,LB,23,IND,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,0.5,TCU,College Stats
+50,2019,2,50,Irv Smith Jr.\SmitIr01,TE,21,MIN,2019,2019,0,0,1,0,6,3,,,,,,,,,,7,93,0,,,Alabama,College Stats
+51,2019,2,51,A.J. Brown\BrowAJ00,WR,22,TEN,2019,2019,0,0,1,0,6,5,,,,,,,,,,14,273,2,,,Mississippi,College Stats
+52,2019,2,52,Drew Sample\SampDr00,TE,23,CIN,2019,2019,0,0,0,0,6,1,,,,,,,,,,3,24,0,,,Washington,College Stats
+53,2019,2,53,Miles Sanders\SandMi01,RB,22,PHI,2019,2019,0,0,1,0,6,4,,,,,,,57,199,0,13,219,1,,,Penn St.,College Stats
+54,2019,2,54,Lonnie Johnson\JohnLo01,CB,22,HOU,2019,2019,0,0,1,0,6,4,,,,,,,,,,,,,,,Kentucky,College Stats
+55,2019,2,55,Max Scharping\SchaMa01,T,23,HOU,2019,2019,0,0,1,0,6,4,,,,,,,,,,,,,,,Northern Illinois,College Stats
+56,2019,2,56,Mecole Hardman\HardMe00,WR,21,KAN,2019,2019,0,0,0,0,6,2,,,,,,,2,1,0,16,291,2,,,Georgia,College Stats
+57,2019,2,57,JJ Arcega-Whiteside\ArceJJ00,WR,22,PHI,2019,2019,0,0,0,0,6,1,,,,,,,,,,2,14,0,,,Stanford,College Stats
+58,2019,2,58,Trysten Hill\HillTr00,DT,21,DAL,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Central Florida,College Stats
+59,2019,2,59,Parris Campbell\CampPa00,WR,22,IND,2019,2019,0,0,0,0,4,1,,,,,,,1,7,0,10,62,1,,,Ohio St.,College Stats
+60,2019,2,60,Nasir Adderley\AddeNa00,S,22,LAC,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Delaware,
+61,2019,2,61,Taylor Rapp\RappTa00,S,21,LAR,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Washington,College Stats
+62,2019,2,62,Andy Isabella\IsabAn00,WR,22,ARI,2019,2019,0,0,0,0,5,0,,,,,,,3,16,0,,,,,,Massachusetts,College Stats
+63,2019,2,63,Juan Thornhill\ThorJu00,S,23,KAN,2019,2019,0,0,1,0,6,6,,,,,,,,,,,,,1,,Virginia,College Stats
+64,2019,2,64,D.K. Metcalf\MetcDK00,WR,21,SEA,2019,2019,0,0,1,0,6,5,,,,,,,1,4,0,16,336,2,,,Mississippi,College Stats
+65,2019,3,65,Zach Allen\AlleZa01,DE,22,ARI,2019,2019,0,0,0,0,4,1,,,,,,,,,,,,,,,Boston Col.,College Stats
+66,2019,3,66,Diontae Johnson\JohnDi01,WR,23,PIT,2019,2019,0,0,1,0,6,4,,,,,,,1,6,0,20,212,2,,,Toledo,College Stats
+67,2019,3,67,Jalen Hurd\HurdJa00,WR,23,SFO,,,0,0,0,,,,,,,,,,,,,,,,,,Baylor,College Stats
+68,2019,3,68,Jachai Polite\PoliJa00,LB,21,NYJ,,,0,0,0,,,,,,,,,,,,,,,,,,Florida,College Stats
+69,2019,3,69,Josh Oliver\OlivJo00,TE,22,JAX,,,0,0,0,,,,,,,,,,,,,,,,,,San Jose St.,College Stats
+70,2019,3,70,Darrell Henderson\HendDa00,RB,22,LAR,2019,2019,0,0,0,0,4,0,,,,,,,7,39,0,1,9,0,,,Memphis,College Stats
+71,2019,3,71,Dre'Mont Jones\JoneDr00,DT,22,DEN,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Ohio St.,College Stats
+72,2019,3,72,Germaine Pratt\PratGe00,LB,23,CIN,2019,2019,0,0,0,0,6,1,,,,,,,,,,,,,,,North Carolina St.,College Stats
+73,2019,3,73,David Montgomery\MontDa01,RB,22,CHI,2019,2019,0,0,1,0,5,3,,,,,,,69,225,2,9,72,0,,,Iowa St.,College Stats
+74,2019,3,74,Devin Singletary\SingDe00,RB,22,BUF,2019,2019,0,0,0,0,2,1,,,,,,,10,127,1,5,28,0,,,Florida Atlantic,College Stats
+75,2019,3,75,Jace Sternberger\SterJa00,TE,23,GNB,,,0,0,0,,,,,,,,,,,,,,,,,,Texas A&M,College Stats
+76,2019,3,76,Terry McLaurin\McLaTe00,WR,23,WAS,2019,2019,0,0,1,0,5,5,,,,,,,,,,23,408,5,,,Ohio St.,College Stats
+77,2019,3,77,Chase Winovich\WinoCh00,DE,24,NWE,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,4.0,Michigan,College Stats
+78,2019,3,78,Michael Deiter\DeitMi00,G,23,MIA,2019,2019,0,0,1,0,5,5,,,,,,,,,,,,,,,Wisconsin,College Stats
+79,2019,3,79,David Long\LongDa02,CB,21,LAR,,,0,0,0,,,,,,,,,,,,,,,,,,Michigan,College Stats
+80,2019,3,80,Sione Takitaki\TakiSi00,LB,24,CLE,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,BYU,College Stats
+81,2019,3,81,Will Harris\HarrWi02,S,23,DET,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Boston Col.,College Stats
+82,2019,3,82,Nate Davis\DaviNa01,G,22,TEN,2019,2019,0,0,0,0,3,2,,,,,,,,,,,,,,,Charlotte,College Stats
+83,2019,3,83,Justin Layne\LaynJu00,CB,21,PIT,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Michigan St.,College Stats
+84,2019,3,84,Khalen Saunders\SaunKh00,DT,23,KAN,2019,2019,0,0,0,0,2,1,,,,,,,,,,,,,,,West. Illinois,
+85,2019,3,85,Jaylon Ferguson\FergJa02,DE,23,BAL,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Louisiana Tech,College Stats
+86,2019,3,86,Kahale Warring\WarrKa00,TE,22,HOU,,,0,0,0,,,,,,,,,,,,,,,,,,San Diego St.,College Stats
+87,2019,3,87,Damien Harris\HarrDa06,RB,22,NWE,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Alabama,College Stats
+88,2019,3,88,Cody Barton\BartCo00,LB,22,SEA,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Utah,College Stats
+89,2019,3,89,Bobby Okereke\OkerBo00,LB,23,IND,2019,2019,0,0,1,0,5,3,,,,,,,,,,,,,,,Stanford,College Stats
+90,2019,3,90,Connor McGovern\McGoCo01,G,21,DAL,,,0,0,0,,,,,,,,,,,,,,,,,,Penn St.,College Stats
+91,2019,3,91,Trey Pipkins\PipkTr00,T,23,LAC,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Sioux Falls,
+92,2019,3,92,Chuma Edoga\EdogCh00,T,22,NYJ,2019,2019,0,0,0,0,2,2,,,,,,,,,,,,,,,USC,College Stats
+93,2019,3,93,Miles Boykin\BoykMi00,WR,22,BAL,2019,2019,0,0,1,0,6,6,,,,,,,,,,7,76,2,,,Notre Dame,College Stats
+94,2019,3,94,Jamel Dean\DeanJa00,CB,22,TAM,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Auburn,College Stats
+95,2019,3,95,Oshane Ximines\XimiOs00,DE,22,NYG,2019,2019,0,0,0,0,6,2,,,,,,,,,,,,,,2.0,Old Dominion,College Stats
+96,2019,3,96,Dawson Knox\KnoxDa00,TE,22,BUF,2019,2019,0,0,0,0,5,2,,,,,,,1,9,0,10,156,1,,,Mississippi,College Stats
+97,2019,3,97,Bobby Evans\EvanBo00,T,22,LAR,,,0,0,0,,,,,,,,,,,,,,,,,,Oklahoma,College Stats
+98,2019,3,98,Quincy Williams\WillQu01,S,23,JAX,2019,2019,0,0,1,0,6,5,,,,,,,,,,,,,,,Murray St.,
+99,2019,3,99,Mike Edwards\EdwaMi01,S,23,TAM,2019,2019,0,0,0,0,5,4,,,,,,,,,,,,,,,Kentucky,College Stats
+100,2019,3,100,Will Grier\GrieWi00,QB,24,CAR,,,0,0,0,,,,,,,,,,,,,,,,,,West Virginia,College Stats
+101,2019,3,101,Yodny Cajuste\CajuYo00,T,23,NWE,,,0,0,0,,,,,,,,,,,,,,,,,,West Virginia,College Stats
+102,2019,3,102,Alexander Mattison\MattAl01,RB,21,MIN,2019,2019,0,0,0,0,6,0,,,,,,,48,252,1,1,8,0,,,Boise St.,College Stats
+103,2019,4,103,Hakeem Butler\ButlHa00,WR,23,ARI,,,0,0,0,,,,,,,,,,,,,,,,,,Iowa St.,College Stats
+104,2019,4,104,Ryan Finley\FinlRy00,QB,24,CIN,,,0,0,0,,,,,,,,,,,,,,,,,,North Carolina St.,College Stats
+105,2019,4,105,Chauncey Gardner-Johnson\GardCh00,S,21,NOR,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Florida,College Stats
+106,2019,4,106,Maxx Crosby\CrosMa00,DE,22,OAK,2019,2019,0,0,0,0,5,1,,,,,,,,,,,,,,1.0,East. Michigan,College Stats
+107,2019,4,107,Anthony Nelson\NelsAn01,DE,22,TAM,2019,2019,0,0,0,0,6,1,,,,,,,,,,,,,,,Iowa,College Stats
+108,2019,4,108,Julian Love\LoveJu00,CB,21,NYG,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Notre Dame,College Stats
+109,2019,4,109,Khari Willis\WillKh00,S,23,IND,2019,2019,0,0,0,0,5,2,,,,,,,,,,,,,,,Michigan St.,College Stats
+110,2019,4,110,Mitch Wishnowsky\WishMi00,P,27,SFO,2019,2019,0,0,1,0,5,0,,,,,,,,,,,,,,,Utah,College Stats
+111,2019,4,111,Kendall Sheffield\ShefKe00,CB,23,ATL,2019,2019,0,0,0,0,6,1,,,,,,,,,,,,,,,Ohio St.,College Stats
+112,2019,4,112,Bryce Love\LoveBr00,RB,22,WAS,,,0,0,0,,,,,,,,,,,,,,,,,,Stanford,College Stats
+113,2019,4,113,Justice Hill\HillJu00,RB,21,BAL,2019,2019,0,0,0,0,6,0,,,,,,,18,78,0,3,19,0,,,Oklahoma St.,College Stats
+114,2019,4,114,Dru Samia\SamiDr00,G,22,MIN,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Oklahoma,College Stats
+115,2019,4,115,Christian Miller\MillCh04,LB,23,CAR,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,2.0,Alabama,College Stats
+116,2019,4,116,Amani Hooker\HookAm00,S,21,TEN,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Iowa,College Stats
+117,2019,4,117,Austin Bryant\BryaAu00,DE,22,DET,,,0,0,0,,,,,,,,,,,,,,,,,,Clemson,College Stats
+118,2019,4,118,Hjalte Froholdt\FrohHj00,G,23,NWE,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas,College Stats
+119,2019,4,119,Sheldrick Redwine\RedwSh00,S,22,CLE,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Miami (FL),College Stats
+120,2019,4,120,Gary Jennings Jr.\JennGa00,WR,22,SEA,,,0,0,0,,,,,,,,,,,,,,,,,,West Virginia,College Stats
+121,2019,4,121,Trevon Wesco\WescTr00,TE,23,NYJ,2019,2019,0,0,0,0,5,1,,,,,,,,,,,,,,,West Virginia,College Stats
+122,2019,4,122,Benny Snell\SnelBe00,RB,21,PIT,2019,2019,0,0,0,0,6,0,,,,,,,23,105,0,1,14,0,,,Kentucky,College Stats
+123,2019,4,123,Ben Powers\PoweBe00,G,22,BAL,,,0,0,0,,,,,,,,,,,,,,,,,,Oklahoma,College Stats
+124,2019,4,124,Phil Haynes\HaynPh00,G,23,SEA,,,0,0,0,,,,,,,,,,,,,,,,,,Wake Forest,College Stats
+125,2019,4,125,Renell Wren\WrenRe00,DT,23,CIN,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Arizona St.,College Stats
+126,2019,4,126,Riley Ridley\RidlRi00,WR,23,CHI,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+127,2019,4,127,Iman Marshall\MarsIm00,CB,22,BAL,,,0,0,0,,,,,,,,,,,,,,,,,,USC,College Stats
+128,2019,4,128,Tony Pollard\PollTo00,RB,22,DAL,2019,2019,0,0,0,0,6,0,,,,,,,37,181,1,4,28,0,,,Memphis,College Stats
+129,2019,4,129,Isaiah Johnson\JohnIs02,CB,23,OAK,,,0,0,0,,,,,,,,,,,,,,,,,,Houston,College Stats
+130,2019,4,130,Drue Tranquill\TranDr00,LB,24,LAC,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Notre Dame,College Stats
+131,2019,4,131,Wes Martin\MartWe00,G,23,WAS,2019,2019,0,0,0,0,2,2,,,,,,,,,,,,,,,Indiana,College Stats
+132,2019,4,132,Ugochukwu Amadi\AmadUg00,S,22,SEA,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Oregon,College Stats
+133,2019,4,133,Jarrett Stidham\StidJa00,QB,23,NWE,2019,2019,0,0,0,0,2,0,,2,4,14,0,1,,,,,,,,,Auburn,College Stats
+134,2019,4,134,Greg Gaines\GainGr00,DT,23,LAR,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Washington,College Stats
+135,2019,4,135,John Cominsky\ComiJo00,DE,23,ATL,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Charleston (WV),
+136,2019,4,136,Michael Jordan\JordMi01,G,21,CIN,2019,2019,0,0,1,0,4,4,,,,,,,,,,,,,,,Ohio St.,College Stats
+137,2019,4,137,Foster Moreau\MoreFo00,TE,22,OAK,2019,2019,0,0,0,0,5,2,,,,,,,,,,10,97,1,,,LSU,College Stats
+138,2019,4,138,Shareef Miller\MillSh00,DE,22,PHI,,,0,0,0,,,,,,,,,,,,,,,,,,Penn St.,College Stats
+139,2019,5,139,Deionte Thompson\ThomDe06,S,22,ARI,2019,2019,0,0,0,0,6,2,,,,,,,,,,,,,,,Alabama,College Stats
+140,2019,5,140,Ryquell Armstead\ArmsRy00,RB,22,JAX,2019,2019,0,0,0,0,6,0,,,,,,,11,49,0,2,14,1,,,Temple,College Stats
+141,2019,5,141,Zach Gentry\GentZa00,TE,22,PIT,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Michigan,College Stats
+142,2019,5,142,Ben Burr-Kirven\BurrBe00,LB,21,SEA,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Washington,College Stats
+143,2019,5,143,Ryan Connelly\ConnRy00,LB,23,NYG,2019,2019,0,0,1,0,4,3,,,,,,,,,,,,,2,1.0,Wisconsin,College Stats
+144,2019,5,144,Marvell Tell\TellMa00,S,23,IND,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,USC,College Stats
+145,2019,5,145,Matt Gay\GayxMa00,K,25,TAM,2019,2019,0,0,1,0,6,0,,,,,,,,,,,,,,,Utah,College Stats
+146,2019,5,146,Amani Oruwariye\OruwAm00,CB,23,DET,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Penn St.,College Stats
+147,2019,5,147,Vosean Joseph\JoseVo00,LB,21,BUF,,,0,0,0,,,,,,,,,,,,,,,,,,Florida,College Stats
+148,2019,5,148,Dre Greenlaw\GreeDr00,LB,22,SFO,2019,2019,0,0,0,0,5,1,,,,,,,,,,,,,,,Arkansas,College Stats
+149,2019,5,149,Hunter Renfrow\RenfHu00,WR,23,OAK,2019,2019,0,0,0,0,5,1,,,,,,,,,,12,101,0,,,Clemson,College Stats
+150,2019,5,150,Kingsley Keke\KekeKi00,DT,22,GNB,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Texas A&M,College Stats
+151,2019,5,151,Andrew Van Ginkel\VanGAn00,LB,24,MIA,,,0,0,0,,,,,,,,,,,,,,,,,,Wisconsin,College Stats
+152,2019,5,152,Qadree Ollison\OlliQa00,RB,22,ATL,,,0,0,0,,,,,,,,,,,,,,,,,,Pittsburgh,College Stats
+153,2019,5,153,Ross Pierschbacher\PierRo00,G,24,WAS,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Alabama,College Stats
+154,2019,5,154,Jordan Scarlett\ScarJo00,RB,23,CAR,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Florida,College Stats
+155,2019,5,155,Mack Wilson\WilsMa03,LB,21,CLE,2019,2019,0,0,1,0,6,4,,,,,,,,,,,,,,,Alabama,College Stats
+156,2019,5,156,Justin Hollins\HollJu00,LB,23,DEN,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Oregon,College Stats
+157,2019,5,157,Blake Cashman\CashBl00,LB,23,NYJ,2019,2019,0,0,1,0,5,3,,,,,,,,,,,,,,0.5,Minnesota,College Stats
+158,2019,5,158,Michael Jackson\JackMi01,CB,22,DAL,,,0,0,0,,,,,,,,,,,,,,,,,,Miami (FL),College Stats
+159,2019,5,159,Byron Cowart\CowaBy00,DT,23,NWE,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Maryland,College Stats
+160,2019,5,160,Daylon Mack\MackDa00,DT,22,BAL,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Texas A&M,College Stats
+161,2019,5,161,Charles Omenihu\OmenCh00,DE,22,HOU,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,2.0,Texas,College Stats
+162,2019,5,162,Cameron Smith\SmitCa01,LB,22,MIN,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,USC,College Stats
+163,2019,5,163,Jake Bailey\BailJa00,P,22,NWE,2019,2019,0,0,1,0,6,0,,,,,,,,,,,,,,,Stanford,College Stats
+164,2019,5,164,E.J. Speed\SpeeEJ00,LB,24,IND,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Tarleton St.,
+165,2019,5,165,Joe Jackson\JackJo02,DE,22,DAL,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Miami (FL),College Stats
+166,2019,5,166,Easton Stick\SticEa00,QB,23,LAC,,,0,0,0,,,,,,,,,,,,,,,,,,North Dakota St.,
+167,2019,5,167,Clayton Thorson\ThorCl00,QB,23,PHI,,,0,0,0,,,,,,,,,,,,,,,,,,Northwestern,College Stats
+168,2019,5,168,D'Andre Walker\WalkDA02,LB,22,TEN,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+169,2019,5,169,David Edwards\EdwaDa01,T,22,LAR,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Wisconsin,College Stats
+170,2019,5,170,Austin Seibert\SeibAu00,K,22,CLE,2019,2019,0,0,1,0,6,0,,,,,,,,,,,,,,,Oklahoma,College Stats
+171,2019,5,171,Darius Slayton\SlayDa01,WR,22,NYG,2019,2019,0,0,0,0,4,1,,,,,,,,,,12,189,1,,,Auburn,College Stats
+172,2019,5,172,Jordan Miller\MillJo05,CB,22,ATL,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Washington,College Stats
+173,2019,5,173,Cole Holcomb\HolcCo00,LB,23,WAS,2019,2019,0,0,1,0,6,5,,,,,,,,,,,,,,,North Carolina,College Stats
+174,2019,6,174,KeeSean Johnson\JohnKe07,WR,22,ARI,2019,2019,0,0,1,0,6,3,,,,,,,1,3,0,16,145,0,,,Fresno St.,College Stats
+175,2019,6,175,Sutton Smith\SmitSu00,DE,23,PIT,,,0,0,0,,,,,,,,,,,,,,,,,,Northern Illinois,College Stats
+176,2019,6,176,Kaden Smith\SmitKa00,TE,22,SFO,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Stanford,College Stats
+177,2019,6,177,Saquan Hampton\HampSa00,S,23,NOR,,,0,0,0,,,,,,,,,,,,,,,,,,Rutgers,College Stats
+178,2019,6,178,Gardner Minshew\MinsGa00,QB,23,JAX,2019,2019,0,0,1,0,6,5,2-3-0,124,194,1442,9,2,21,125,0,,,,,,Washington St.,College Stats
+179,2019,6,179,Lamont Gaillard\GailLa00,C,23,ARI,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+180,2019,6,180,Corey Ballentine\BallCo00,CB,23,NYG,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Washburn,
+181,2019,6,181,Jaquan Johnson\JohnJa11,CB,23,BUF,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Miami (FL),College Stats
+182,2019,6,182,Trayveon Williams\WillTr06,RB,21,CIN,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Texas A&M,College Stats
+183,2019,6,183,Justin Skule\SkulJu00,T,22,SFO,2019,2019,0,0,0,0,5,3,,,,,,,,,,,,,,,Vanderbilt,College Stats
+184,2019,6,184,Travis Fulgham\FulgTr00,WR,23,DET,,,0,0,0,,,,,,,,,,,,,,,,,,Old Dominion,College Stats
+185,2019,6,185,Ka'dar Hollman\HollKa00,CB,24,GNB,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Toledo,College Stats
+186,2019,6,186,Ty Johnson\JohnTy02,RB,21,DET,2019,2019,0,0,0,0,5,0,,,,,,,13,54,0,4,7,0,,,Maryland,College Stats
+187,2019,6,187,Juwann Winfree\WinfJu00,WR,23,DEN,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Colorado,College Stats
+188,2019,6,188,David Long\LongDa04,LB,20,TEN,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,West Virginia,
+189,2019,6,189,Drew Forbes\ForbDr00,T,22,CLE,,,0,0,0,,,,,,,,,,,,,,,,,,SE Missouri St.,
+190,2019,6,190,Armon Watts\WattAr01,DT,23,MIN,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas,College Stats
+191,2019,6,191,Marcus Epps\EppsMa00,S,23,MIN,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Wyoming,College Stats
+192,2019,6,192,Isaiah Buggs\BuggIs00,DT,23,PIT,,,0,0,0,,,,,,,,,,,,,,,,,,Alabama,College Stats
+193,2019,6,193,Oli Udoh\UdohOl00,T,22,MIN,,,0,0,0,,,,,,,,,,,,,,,,,,Elon,
+194,2019,6,194,Dexter Williams\WillDe07,RB,22,GNB,,,0,0,0,,,,,,,,,,,,,,,,,,Notre Dame,College Stats
+195,2019,6,195,Xavier Crawford\CrawXa00,CB,23,HOU,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Central Michigan,College Stats
+196,2019,6,196,Blessuan Austin\AustBl00,CB,23,NYJ,,,0,0,0,,,,,,,,,,,,,,,,,,Rutgers,College Stats
+197,2019,6,197,Trace McSorley\McSoTr00,QB,24,BAL,,,0,0,0,,,,,,,,,,,,,,,,,,Penn St.,College Stats
+198,2019,6,198,Tim Harris\HarrTi01,CB,24,SFO,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia,College Stats
+199,2019,6,199,Gerri Green\GreeGe00,DE,23,IND,,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi St.,College Stats
+200,2019,6,200,Emeke Egbule\EgbuEm00,LB,22,LAC,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,Houston,College Stats
+201,2019,6,201,Rashad Fenton\FentRa00,CB,22,KAN,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,,South Carolina,College Stats
+202,2019,6,202,Isaiah Prince\PrinIs00,T,22,MIA,2019,2019,0,0,0,0,2,2,,,,,,,,,,,,,,,Ohio St.,College Stats
+203,2019,6,203,Marcus Green\GreeMa02,WR,23,ATL,,,0,0,0,,,,,,,,,,,,,,,,,,La-Monroe,College Stats
+204,2019,6,204,Travis Homer\HomeTr00,RB,21,SEA,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Miami (FL),College Stats
+205,2019,6,205,Duke Shelley\ShelDu00,CB,22,CHI,2019,2019,0,0,0,0,4,0,,,,,,,,,,,,,,,Kansas St.,College Stats
+206,2019,6,206,Kelvin Harmon\HarmKe00,WR,22,WAS,2019,2019,0,0,0,0,6,2,,,,,,,,,,6,57,0,,,North Carolina St.,College Stats
+207,2019,6,207,Ulysees Gilbert\GilbUl00,LB,22,PIT,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Akron,College Stats
+208,2019,6,208,Scott Miller\MillSc01,WR,22,TAM,2019,2019,0,0,0,0,4,0,,,,,,,1,18,0,3,39,0,,,Bowling Green,College Stats
+209,2019,6,209,Demarcus Christmas\ChriDe01,DT,24,SEA,,,0,0,0,,,,,,,,,,,,,,,,,,Florida St.,College Stats
+210,2019,6,210,Deshaun Davis\DaviDe01,LB,23,CIN,,,0,0,0,,,,,,,,,,,,,,,,,,Auburn,College Stats
+211,2019,6,211,Rodney Anderson\AndeRo02,RB,22,CIN,,,0,0,0,,,,,,,,,,,,,,,,,,Oklahoma,College Stats
+212,2019,6,212,Dennis Daley\DaleDe00,T,23,CAR,2019,2019,0,0,0,0,5,2,,,,,,,,,,,,,,,South Carolina,College Stats
+213,2019,6,213,Donovan Wilson\WilsDo01,S,22,DAL,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Texas A&M,College Stats
+214,2019,6,214,Darwin Thompson\ThomDa06,RB,23,KAN,2019,2019,0,0,0,0,5,0,,,,,,,4,9,0,1,3,0,,,Utah St.,College Stats
+215,2019,7,215,Terry Beckner Jr.\BeckTe00,DT,22,TAM,,,0,0,0,,,,,,,,,,,,,,,,,,Missouri,College Stats
+216,2019,7,216,Nick Allegretti\AlleNi00,G,23,KAN,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Illinois,College Stats
+217,2019,7,217,Kris Boyd\BoydKr00,CB,22,MIN,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Texas,College Stats
+218,2019,7,218,Mike Weber\WebeMi00,RB,22,DAL,,,0,0,0,,,,,,,,,,,,,,,,,,Ohio St.,College Stats
+219,2019,7,219,Derwin Gray\GrayDe01,T,24,PIT,,,0,0,0,,,,,,,,,,,,,,,,,,Maryland,College Stats
+220,2019,7,220,Cullen Gillaspia\GillCu00,RB,24,HOU,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Texas A&M,College Stats
+221,2019,7,221,Donnie Lewis\LewiDo00,CB,23,CLE,,,0,0,0,,,,,,,,,,,,,,,,,,Tulane,College Stats
+222,2019,7,222,Kerrith Whyte Jr.\WhytKe00,RB,22,CHI,,,0,0,0,,,,,,,,,,,,,,,,,,Florida Atlantic,College Stats
+223,2019,7,223,Jordan Brown\BrowJo04,CB,23,CIN,,,0,0,0,,,,,,,,,,,,,,,,,,South Dakota St.,
+224,2019,7,224,Isaac Nauta\NautIs00,TE,22,DET,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+225,2019,7,225,Darryl Johnson\JohnDa10,DE,22,BUF,2019,2019,0,0,0,0,5,0,,,,,,,,,,,,,,1.0,North Carolina A&T,
+226,2019,7,226,Ty Summers\SummTy00,LB,23,GNB,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,TCU,College Stats
+227,2019,7,227,Jimmy Moreland\MoreJi00,CB,24,WAS,2019,2019,0,0,0,0,6,2,,,,,,,,,,,,,,,James Madison,
+228,2019,7,228,Tommy Sweeney\SweeTo00,TE,24,BUF,2019,2019,0,0,0,0,5,1,,,,,,,,,,3,38,0,,,Boston Col.,College Stats
+229,2019,7,229,P.J. Johnson\JohnPJ00,DE,23,DET,,,0,0,0,,,,,,,,,,,,,,,,,,Arizona,College Stats
+230,2019,7,230,Quinton Bell\BellQu00,DE,23,OAK,,,0,0,0,,,,,,,,,,,,,,,,,,Prairie View,College Stats
+231,2019,7,231,Alize Mack\MackAl00,TE,22,NOR,,,0,0,0,,,,,,,,,,,,,,,,,,Notre Dame,College Stats
+232,2019,7,232,George Asafo-Adjei\AsafGe00,T,22,NYG,,,0,0,0,,,,,,,,,,,,,,,,,,Kentucky,College Stats
+233,2019,7,233,Chandler Cox\CoxxCh01,RB,23,MIA,2019,2019,0,0,0,0,4,1,,,,,,,,,,,,,,,Auburn,College Stats
+234,2019,7,234,Myles Gaskin\GaskMy00,RB,22,MIA,,,0,0,0,,,,,,,,,,,,,,,,,,Washington,College Stats
+235,2019,7,235,Dontavius Russell\RussDo00,DT,23,JAX,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Auburn,College Stats
+236,2019,7,236,John Ursua\UrsuJo00,WR,25,SEA,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Hawaii,College Stats
+237,2019,7,237,Terry Godwin\GodwTe00,WR,22,CAR,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,College Stats
+238,2019,7,238,Stephen Denmark\DenmSt00,CB,23,CHI,,,0,0,0,,,,,,,,,,,,,,,,,,Valdosta St.,
+239,2019,7,239,Dillon Mitchell\MitcDi00,WR,22,MIN,,,0,0,0,,,,,,,,,,,,,,,,,,Oregon,College Stats
+240,2019,7,240,Jackson Barton\BartJa00,T,24,IND,,,0,0,0,,,,,,,,,,,,,,,,,,Utah,College Stats
+241,2019,7,241,Jalen Jelks\JelkJa00,DE,23,DAL,,,0,0,0,,,,,,,,,,,,,,,,,,Oregon,College Stats
+242,2019,7,242,Cortez Broughton\BrouCo00,DT,23,LAC,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Cincinnati,College Stats
+243,2019,7,243,Nick Scott\ScotNi01,S,24,LAR,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Penn St.,College Stats
+244,2019,7,244,Kaden Elliss\ElliKa00,LB,24,NOR,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Idaho,College Stats
+245,2019,7,245,Chris Slayton\SlayCh00,DT,22,NYG,,,0,0,0,,,,,,,,,,,,,,,,,,Syracuse,College Stats
+246,2019,7,246,Javon Patterson\PattJa00,C,22,IND,,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi,College Stats
+247,2019,7,247,Olabisi Johnson\JohnOl00,WR,22,MIN,2019,2019,0,0,0,0,6,0,,,,,,,,,,9,94,0,,,Colorado St.,College Stats
+248,2019,7,248,Joshua Miles\MileJo00,T,23,ARI,2019,2019,0,0,0,0,3,0,,,,,,,,,,,,,,,Morgan St.,
+249,2019,7,249,Michael Dogbe\DogbMi00,DE,23,ARI,2019,2019,0,0,0,0,2,0,,,,,,,,,,,,,,,Temple,College Stats
+250,2019,7,250,Austin Cutting\CuttAu00,LS,21,MIN,2019,2019,0,0,0,0,6,0,,,,,,,,,,,,,,,Air Force,College Stats
+251,2019,7,251,Dakota Allen\AlleDa01,LB,23,LAR,2019,2019,0,0,0,0,1,0,,,,,,,,,,,,,,,Texas Tech,College Stats
+252,2019,7,252,Ken Webster\WebsKe00,CB,23,NWE,2019,2019,0,0,0,0,4,1,,,,,,,,,,,,,,,Mississippi,College Stats
+253,2019,7,253,Jordan Brailford\BraiJo00,DE,23,WAS,,,0,0,0,,,,,,,,,,,,,,,,,,Oklahoma St.,College Stats
+254,2019,7,254,Caleb Wilson\WilsCa00,TE,23,ARI,,,0,0,0,,,,,,,,,,,,,,,,,,UCLA,College Stats
+255,2018,1,1,Baker Mayfield\MayfBa00,QB,23,CLE,2018,2019,0,0,2,10,20,19,8-11-0,422,684,5221,32,25,47,166,1,,,,,,Oklahoma,College Stats
+256,2018,1,2,Saquon Barkley\BarkSa00,RB,21,NYG,2018,2019,0,1,2,14,19,19,,,,,,,298,1544,12,102,795,4,,,Penn St.,College Stats
+257,2018,1,3,Sam Darnold\DarnSa00,QB,21,NYJ,2018,2019,0,0,1,7,15,15,5-10-0,290,487,3378,20,16,50,139,1,,,,,,USC,College Stats
+258,2018,1,4,Denzel Ward\WardDe02,CB,21,CLE,2018,2019,0,1,1,8,15,14,,,,,,,,,,,,,3,,Ohio St.,College Stats
+259,2018,1,5,Bradley Chubb\ChubBr00,DE,22,DEN,2018,2019,0,0,2,8,20,20,,,,,,,,,,,,,,13.0,North Carolina St.,College Stats
+260,2018,1,6,Quenton Nelson\NelsQu00,G,22,IND,2018,2019,1,1,2,14,21,21,,,,,,,,,,,,,,,Notre Dame,College Stats
+261,2018,1,7,Josh Allen\AlleJo02,QB,22,BUF,2018,2019,0,0,2,6,17,16,9-7-0,271,483,3196,15,19,130,789,11,,,,,,Wyoming,College Stats
+262,2018,1,8,Roquan Smith\SmitRo07,ILB,21,CHI,2018,2019,0,0,2,9,20,18,,,,,,,,,,,,,1,5.0,Georgia,College Stats
+263,2018,1,9,Mike McGlinchey\McGlMi00,T,24,SFO,2018,2019,0,0,2,8,20,20,,,,,,,,,,,,,,,Notre Dame,College Stats
+264,2018,1,10,Josh Rosen\RoseJo01,QB,21,ARI,2018,2019,0,0,2,2,19,16,3-13-0,275,502,2845,12,19,26,151,0,,,,,,UCLA,College Stats
+265,2018,1,11,Minkah Fitzpatrick\FitzMi00,S,21,MIA,2018,2019,0,0,2,4,22,17,,,,,,,,,,,,,3,,Alabama,College Stats
+266,2018,1,12,Vita Vea\VeaxVi00,DT,23,TAM,2018,2019,0,0,2,4,19,14,,,,,,,,,,,,,,3.5,Washington,College Stats
+267,2018,1,13,Da'Ron Payne\PaynDa00,DT,21,WAS,2018,2019,0,0,2,8,22,22,,,,,,,,,,,,,,6.0,Alabama,College Stats
+268,2018,1,14,Marcus Davenport\DaveMa00,DE,22,NOR,2018,2019,0,0,1,1,19,6,,,,,,,,,,,,,,7.5,Texas-San Antonio,College Stats
+269,2018,1,15,Kolton Miller\MillKo00,T,22,OAK,2018,2019,0,0,2,7,21,21,,,,,,,,,,,,,,,UCLA,College Stats
+270,2018,1,16,Tremaine Edmunds\EdmuTr01,ILB,20,BUF,2018,2019,0,0,2,9,20,20,,,,,,,,,,,,,2,2.0,Virginia Tech,College Stats
+271,2018,1,17,Derwin James\JameDe00,S,22,LAC,2018,2018,1,1,1,11,16,16,,,,,,,,,,,,,3,3.5,Florida St.,College Stats
+272,2018,1,18,Jaire Alexander\AlexJa00,CB,21,GNB,2018,2019,0,0,2,5,19,17,,,,,,,,,,,,,2,0.5,Louisville,College Stats
+273,2018,1,19,Leighton Vander Esch\VandLe00,OLB,22,DAL,2018,2019,0,1,2,11,22,17,,,,,,,,,,,,,2,0.5,Boise St.,College Stats
+274,2018,1,20,Frank Ragnow\RagnFr00,C,22,DET,2018,2019,0,0,1,7,21,21,,,,,,,,,,,,,,,Arkansas,College Stats
+275,2018,1,21,Billy Price\PricBi01,C,23,CIN,2018,2019,0,0,1,5,16,12,,,,,,,,,,,,,,,Ohio St.,College Stats
+276,2018,1,22,Rashaan Evans\EvanRa01,ILB,22,TEN,2018,2019,0,0,1,5,21,13,,,,,,,,,,,,,,0.5,Alabama,College Stats
+277,2018,1,23,Isaiah Wynn\WynnIs00,T,21,NWE,2019,2019,0,0,0,0,2,2,,,,,,,,,,,,,,,Georgia,College Stats
+278,2018,1,24,D.J. Moore\MoorD.00,WR,21,CAR,2018,2019,0,0,2,8,22,16,,,,,,,15,197,0,88,1213,3,,,Maryland,College Stats
+279,2018,1,25,Hayden Hurst\HursHa00,TE,25,BAL,2018,2019,0,0,0,1,18,1,,,,,,,1,0,0,26,294,2,,,South Carolina,College Stats
+280,2018,1,26,Calvin Ridley\RidlCa00,WR,23,ATL,2018,2019,0,0,1,7,22,10,,,,,,,6,27,0,89,1164,14,,,Alabama,College Stats
+281,2018,1,27,Rashaad Penny\PennRa00,RB,22,SEA,2018,2019,0,0,0,4,17,0,,,,,,,107,517,3,12,109,0,,,San Diego St.,College Stats
+282,2018,1,28,Terrell Edmunds\EdmuTe00,S,21,PIT,2018,2019,0,0,2,6,22,21,,,,,,,,,,,,,1,1.0,Virginia Tech,College Stats
+283,2018,1,29,Taven Bryan\BryaTa00,DT,22,JAX,2018,2019,0,0,0,2,22,1,,,,,,,,,,,,,,2.0,Florida,College Stats
+284,2018,1,30,Mike Hughes\HughMi00,CB,21,MIN,2018,2019,0,0,0,2,10,3,,,,,,,,,,,,,1,,Central Florida,College Stats
+285,2018,1,31,Sony Michel\MichSo00,RB,23,NWE,2018,2019,0,0,2,7,19,13,,,,,,,309,1279,9,12,109,0,,,Georgia,College Stats
+286,2018,1,32,Lamar Jackson\JackLa00,QB,21,BAL,2018,2019,0,0,1,8,22,13,10-3-0,226,365,2708,17,8,216,1155,7,,,,,,Louisville,College Stats
+287,2018,2,33,Austin Corbett\CorbAu00,C,23,CLE,2018,2019,0,0,0,1,14,1,,,,,,,,,,,,,,,Nevada,College Stats
+288,2018,2,34,Will Hernandez\HernWi00,G,23,NYG,2018,2019,0,0,2,7,22,22,,,,,,,,,,,,,,,Texas-El Paso,College Stats
+289,2018,2,35,Nick Chubb\ChubNi00,RB,22,CLE,2018,2019,0,0,2,6,22,15,,,,,,,306,1603,14,40,277,2,,,Georgia,College Stats
+290,2018,2,36,Darius Leonard\LeonDa00,LB,23,IND,2018,2019,1,0,1,18,17,17,,,,,,,,,,,,,2,8.0,South Carolina St.,
+291,2018,2,37,Braden Smith\SmitBr06,G,22,IND,2018,2019,0,0,2,6,20,18,,,,,,,,,,,,,,,Auburn,College Stats
+292,2018,2,38,Ronald Jones\JoneRo01,RB,21,TAM,2018,2019,0,0,0,0,15,0,,,,,,,86,323,3,12,125,0,,,USC,College Stats
+293,2018,2,39,James Daniels\DaniJa01,C,20,CHI,2018,2019,0,0,1,5,21,15,,,,,,,,,,,,,,,Iowa,College Stats
+294,2018,2,40,Courtland Sutton\SuttCo00,WR,22,DEN,2018,2019,0,0,2,5,22,13,,,,,,,1,-1,0,72,1181,7,,,SMU,College Stats
+295,2018,2,41,Harold Landry\LandHa00,OLB,22,TEN,2018,2019,0,0,1,3,21,9,,,,,,,,,,,,,,8.5,Boston Col.,College Stats
+296,2018,2,42,Mike Gesicki\GesiMi00,TE,22,MIA,2018,2019,0,0,0,2,21,8,,,,,,,,,,31,304,0,,,Penn St.,College Stats
+297,2018,2,43,Kerryon Johnson\JohnKe06,RB,21,DET,2018,2019,0,0,1,5,15,12,,,,,,,205,926,5,41,339,2,,,Auburn,College Stats
+298,2018,2,44,Dante Pettis\PettDa00,WR,22,SFO,2018,2019,0,0,1,3,17,10,,1,1,16,0,0,1,-2,0,36,550,6,,,Washington,College Stats
+299,2018,2,45,Josh Jackson\JackJo01,CB,22,GNB,2018,2019,0,0,1,4,22,10,,,,,,,,,,,,,,,Iowa,College Stats
+300,2018,2,46,Breeland Speaks\SpeaBr00,DE,22,KAN,2018,2018,0,0,0,3,16,4,,,,,,,,,,,,,,1.5,Mississippi,College Stats
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Pro-Football-Reference.com</a>: <a href="https://www.pro-football-reference.com/play-index/tiny.fcgi?id=BLH5w&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#results">View Original Table</a><br>Generated 10/17/2019.
