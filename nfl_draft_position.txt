@@ -1,4 +1,3 @@
-,,,,,,,,,,Misc,,,,Games,,Passing,,,,,,Rushing,,,Receiving,,,,,,
 Rk,Year,Rnd,Pick,Player,Pos,DrAge,Tm,From,To,AP1,PB,St,CarAV,G,GS,QBrec,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ,
 1,2019,1,1,Kyler Murray\MurrKy00,QB,22,ARI,2019,2019,0,0,1,0,6,6,2-3-1,153,238,1664,7,4,39,238,2,,,,,,Oklahoma,College Stats
 2,2019,1,2,Nick Bosa\BosaNi00,DE,21,SFO,2019,2019,0,0,0,0,5,3,,,,,,,,,,,,,,3.0,Ohio St.,College Stats
