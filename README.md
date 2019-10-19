@@ -29,5 +29,5 @@ To insert the data from *Jupyter* to *PGadmin*, we created a connection to the l
 ### Authors
 - Melissa Djohan
 - Tyler Fasulo
-- Limei Hou
 - Luan Hajnaj
+- Limei Hou
