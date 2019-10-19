@@ -13,7 +13,7 @@ During our search for information, we found two separate sources including *Kagg
 https://www.kaggle.com/drgilermo/nba-players-stats
 2. 2019-20 NBA Player Contracts and Salary information   
 https://www.basketball-reference.com/contracts/players.html
-3. 2018-2019 NBA Players Statistics
+3. 2018-2019 NBA Players Statistics 
 https://www.kaggle.com/terrycheng/2018-nba-players-stats
 
 ### Putting the Data Together
