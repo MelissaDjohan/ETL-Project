@@ -3,7 +3,7 @@
 # NBA Player Query
 
 Our group decided to extract data for NBA players salaries, stats and basic information for the 2018-2019 season.
-In the `NBA_19` database, we wanted to provide users with the ability to compare **statistics, player dynamics and salaries**.
+In the `NBA_19` database, we wanted to provide users with the ability to compare **statistics, player dynamics and the salaries for the following season(s)**.
 
 ## Getting Started
 
