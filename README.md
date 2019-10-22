@@ -18,10 +18,10 @@ https://www.kaggle.com/terrycheng/2018-nba-players-stats
 
 ### Putting the Data Together
 After collecting the desired data from both sources, the next step was to use **Jupyter Notebook** to manipulate and *join* the data sets together into *one* database.
-- steps within the Jupyter Notebook included importing files, reading files, merging tables, changing column names, removing some columns, and changing all column names to all lower case letters in order to smoothly connect with **PGadmin**.
+- steps within the Jupyter Notebook included importing files, reading files, merging tables, changing column names, removing some columns, and changing all column names to all lower case letters in order to smoothly connect with **PostgreSQL**.
 
-### Importing to PGadmin (Postgres)
-Once the tables were merged on Jupyter Notebook, we finally created a **Database** and **Table** within PGadmin and inserted each **column name** and its **datatype**.
+### Importing to PostgreSQL (pgAdmin)
+Once the tables were merged on Jupyter Notebook, we finally created a **Database** and **Table** within pgAdmin and inserted each **column name** and its **datatype**.
 
 ### Finally
 To insert the data from *Jupyter* to *pgAdmin*, we created a connection to the local host server, created an engine, opened the table, and imported the data. 
