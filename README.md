@@ -24,7 +24,7 @@ After collecting the desired data from both sources, the next step was to use **
 Once the tables were merged on Jupyter Notebook, we finally created a **Database** and **Table** within PGadmin and inserted each **column name** and its **datatype**.
 
 ### Finally
-To insert the data from *Jupyter* to *PGadmin*, we created a connection to the local host server, created an engine, opened the table, and imported the data. 
+To insert the data from *Jupyter* to *pgAdmin*, we created a connection to the local host server, created an engine, opened the table, and imported the data. 
 
 ### Authors
 - Melissa Djohan
