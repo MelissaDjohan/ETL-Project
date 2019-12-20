@@ -26,8 +26,8 @@ Once the tables were merged on Jupyter Notebook, we finally created a **Database
 ### Finally
 To insert the data from *Jupyter* to *pgAdmin*, we created a connection to the local host server, created an engine, opened the table, and imported the data. 
 
-### Authors
+### Authors(ordered alphabetically by last name)
 - Melissa Djohan
 - Tyler Fasulo
 - Luan Hajnaj
-- Limei Hou
+- Limei Hou (in data cleaning process changed String type data "March 14, 1988", "6-3" and "$43,006,362" to Date, Decimal, Int respectively.)
